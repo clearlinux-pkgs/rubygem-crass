@@ -4,7 +4,7 @@
 #
 Name     : rubygem-crass
 Version  : 1.0.2
-Release  : 10
+Release  : 11
 URL      : https://rubygems.org/downloads/crass-1.0.2.gem
 Source0  : https://rubygems.org/downloads/crass-1.0.2.gem
 Summary  : No detailed summary available
@@ -161,8 +161,10 @@ popd
 /usr/lib64/ruby/gems/2.2.0/gems/crass-1.0.2/test/css-parsing-tests/component_value_list.json
 /usr/lib64/ruby/gems/2.2.0/gems/crass-1.0.2/test/css-parsing-tests/declaration_list.json
 /usr/lib64/ruby/gems/2.2.0/gems/crass-1.0.2/test/css-parsing-tests/make_color3_hsl.py
+/usr/lib64/ruby/gems/2.2.0/gems/crass-1.0.2/test/css-parsing-tests/make_color3_hsl.pyc
 /usr/lib64/ruby/gems/2.2.0/gems/crass-1.0.2/test/css-parsing-tests/make_color3_hsl.pyo
 /usr/lib64/ruby/gems/2.2.0/gems/crass-1.0.2/test/css-parsing-tests/make_color3_keywords.py
+/usr/lib64/ruby/gems/2.2.0/gems/crass-1.0.2/test/css-parsing-tests/make_color3_keywords.pyc
 /usr/lib64/ruby/gems/2.2.0/gems/crass-1.0.2/test/css-parsing-tests/make_color3_keywords.pyo
 /usr/lib64/ruby/gems/2.2.0/gems/crass-1.0.2/test/css-parsing-tests/one_component_value.json
 /usr/lib64/ruby/gems/2.2.0/gems/crass-1.0.2/test/css-parsing-tests/one_declaration.json
