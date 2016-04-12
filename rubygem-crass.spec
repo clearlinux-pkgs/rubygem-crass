@@ -4,7 +4,7 @@
 #
 Name     : rubygem-crass
 Version  : 1.0.2
-Release  : 12
+Release  : 13
 URL      : https://rubygems.org/downloads/crass-1.0.2.gem
 Source0  : https://rubygems.org/downloads/crass-1.0.2.gem
 Summary  : No detailed summary available
