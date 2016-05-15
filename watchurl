@@ -1,0 +1,4 @@
+# File auto-generated with 'Watchfile generator'
+# 2016-05-06 18:22:16.305855
+# {'~>1.0.2'}
+watchurl=https://rubygems.org/gems/crass/versions/([0-1]\.0(?:\.[0-9]{1,2})*)
